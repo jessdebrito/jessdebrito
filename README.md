@@ -6,7 +6,6 @@
 <li>⚙️ | I use daily: <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.python</code></li>
 <li>🌟 | Fun fact: Gamer by heart, started programming to create hacks for games.</li>
 <li>🎯 | Always looking for new challenges and opportunities</li>
-<li>🌍 | My Website: <strong><a href="https://jessdebrito.com/" rel="nofollow">jessdebrito.com</a></strong></li>
 </ul>
 <h3>All my hard skills</h3>
 
