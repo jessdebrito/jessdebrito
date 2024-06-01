@@ -35,5 +35,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </br>
 ![jessdebrito's Stats](https://github-readme-stats.vercel.app/api?username=jessdebrito&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
-![jessdebrito's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessdebrito&theme=nightowl&hide_border=false)
 ![jessdebrito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessdebrito&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
