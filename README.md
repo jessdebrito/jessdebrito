@@ -34,8 +34,5 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </br>
-
-![jessdebrito's Stats](https://github-readme-stats.vercel.app/api?username=jessdebrito&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![jessdebrito's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessdebrito&theme=gotham&hide_border=true)
-![jessdebrito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessdebrito&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![jessdebrito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessdebrito&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
