@@ -38,5 +38,4 @@
 ![jessdebrito's Stats](https://github-readme-stats.vercel.app/api?username=jessdebrito&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![jessdebrito's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessdebrito&theme=gotham&hide_border=true)
 ![jessdebrito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessdebrito&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-![jessdebrito's Stats](https://github-readme-stats.vercel.app/api?username=jessdebrito&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
-![jessdebrito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessdebrito&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+
