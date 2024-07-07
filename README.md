@@ -9,7 +9,6 @@
 </ul>
 <h3>All my hard skills</h3>
 
-**Languages**
 <div align="left">
 
 <h3 align="left">Languages and Tools:</h3>
