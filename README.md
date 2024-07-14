@@ -3,10 +3,6 @@
 <ul dir="auto">
 <li>💁‍♀️ | I'm Jéssica de Brito</li>
 <li>🚀 | <strong>Full Stack </strong> developer from Brazil</li>
-<li>⚙️ | I use daily: <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.python</code></li>
-<li>🌟 | Fun fact: Gamer by heart, started programming to create hacks for games.</li>
-<li>🎯 | Always looking for new challenges and opportunities</li>
-</ul>
 
 <h3>📋 Languages</h3>
 
