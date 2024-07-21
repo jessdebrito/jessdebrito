@@ -1,8 +1,7 @@
 
-<h2>Hi there! 👋</h2>
+<h2>Hi there! 👋 My name is Jéssica de Brito</h2>
 <ul dir="auto">
-<li>💁‍♀️ | I'm Jéssica de Brito</li>
-<li>🚀 | <strong>Full Stack </strong> developer from Brazil</li>
+<li>🌍<strong>Full Stack Developer</strong> based in Recife, PE - Brazil.</li>
 
 <h3>📋 Languages</h3>
 
